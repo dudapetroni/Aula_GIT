@@ -3,3 +3,5 @@ Neste arquivo colocaremos descrição, instruções ou qualquer informação út
 Acescentando um novo texto ao arquivo
 
 Mais uma alteração
+
+🎀
